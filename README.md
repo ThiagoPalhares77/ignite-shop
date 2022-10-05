@@ -1,1 +1,1 @@
-﻿# Projeto desenvolvido com o Next JS, simulando um site de venda de camisetas fazendo contato com a API do Stripe.
+﻿# Project developed with Next JS, simulating a website for selling t-shirts making contact with the Stripe API. 
